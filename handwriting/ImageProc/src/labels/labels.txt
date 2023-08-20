@@ -1,0 +1,16 @@
+letter_0: o
+letter_1: e
+letter_2: n
+letter_3: t
+letter_4: o
+letter_5: n
+letter_6: k
+letter_7: r
+letter_8: o
+letter_9: t
+letter_10: w
+letter_11: q
+letter_12: w
+letter_13: t
+letter_14: w
+letter_15: d
